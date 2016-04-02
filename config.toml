@@ -36,11 +36,11 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "V-PARTY"
-		services = "Services"
-		portfolio = "Portfolio"
-		about = "About"
-		team = "Team"
+		brand = "V-PARTY   13.-14.05.2016"
+		services = "News"
+		portfolio = "Anfahrt"
+		about = "Historie"
+		team = "Team|Kontakt"
 		contact = "Contact"
 
   
@@ -49,32 +49,32 @@ googleAnalytics = ""
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
 		title = "Willkommen auf Deiner Party!"
-		subtitle = "V - PARTY 2016"
+		subtitle = "V - PARTY 2016 Zusamaltheim!"
 		buttonText = "Was gibts Neues"
 
 
 	# Services section
 	[params.services]
         enable = true
-		title = "Services"
-		subtitle = "Lorem ipsum dolor sit amet consectetur."
+		title = "News"
+		subtitle = "Aktuelle Infos rund ums Wochenende"
 
         [[params.services.row]]
 
             [[params.services.row.list]]
                 icon = "fa-shopping-cart"
-                title = "E-Commerce"
-                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+                title = "Musik"
+                description = "Wie auch jedes Jahr verwöhnen wir Euch mit Hardcorerave bis Stadelsound. Der Resident DJ Karotte vom angelclub ibitza wird Samstag für verschwitzte t-shirts sorgen. Am Freitag ist gandalf mit seiner Crew zu Gast!"
 
             [[params.services.row.list]]
                 icon = "fa-laptop"
-                title = "Responsive Design"
-                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+                title = "Food"
+                description = "Auf Unserer 30meter Essensstraßeservieren Wir Euch Regionales Streetfood. Von Deftigem bis semivegan haben wir alles..."
 
             [[params.services.row.list]]
                 icon = "fa-lock"
-                title = "Web"
-                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+                title = "Drinks"
+                description = "Die Thekenlanschaft fasst auch dieses jahr wieder über 250 meter. Das Weisbierkarusell, die Coktailbar oder die Stände im Asenbreich laden auch jeden zum gemütlich verweilen ein..."
 
 	# Portfolio section
 	[params.portfolio]
@@ -83,48 +83,48 @@ googleAnalytics = ""
 		# at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
 		# at the root of this Hugo site.
 		# For more informtion take a look at the README.
-		title = "Portfolio"
-		subtitle = "Lorem ipsum dolor sit amet consectetur."
+		title = "Anfahrt"
+		subtitle = "Wie komm ich da hin?"
 
 		[params.portfolio.modal]
             client = "Client"
-            date = "Date"
+            date = "Wann"
             category = "Category"
-            buttonText = "Close project"
+            buttonText = "zurück"
 
 
     # About section
 	[params.about]
         enable = true
-		title = "About"
-		subtitle = "Lorem ipsum dolor sit amet consectetur."
-		endpoint = "Be part<br>of our<br>story!"
+		title = "Historie"
+		subtitle = "Unsere Geschichte"
+		endpoint = "Komm<br>Feier<br>mit Uns!"
 
 		# The events will be listed from the top to the bottom.
 		# All images are stored under 'static/img/about'.
 		# Replace them with your own.
 		[[params.about.events]]
 			img = "1.jpg"
-			date = "2009-2011"
-			title = "Our Humble Beginnings"
+			date = "2000-2001"
+			title = "Die erste Party steeigt in Sontheim"
 			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
 
 		[[params.about.events]]
 			img = "2.jpg"
-			date = "March 2011"
-			title = "An Agency is Born"
+			date = "Fasching 2006"
+			title = "Vereinsgründung"
 			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
 
 		[[params.about.events]]
 			img = "3.jpg"
-			date = "December 2012"
-			title = "Our Humble Beginnings"
+			date = "Mai 2010"
+			title = "Große Hitzewelle"
 			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
 
 		[[params.about.events]]
 			img = "4.jpg"
-			date = "July 2014"
-			title = "Phase Two Expansion"
+			date = "Mai 2016"
+			title = "Auf zum 15 Jubiläum"
 			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
 
 
@@ -133,7 +133,7 @@ googleAnalytics = ""
         enable = true
 		title = "Euer Party Team"
 		subtitle = "steht für Fragen und Antworten bereit"
-		description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+		description = "Traut Euch und schreibt uns einfach auf Facebook, Twitter oder via eMail unter v-party@googlemail.com. Wir freuen uns von Euch zu Hören! Bis bald..."
 
 		# All team member's pictures are stored under 'static/img/team'.
 		# Replace them with your own too.
@@ -143,27 +143,27 @@ googleAnalytics = ""
 			position = "1. Vorstand"
 			social = [
 				["fa-twitter", "#"],
-				["fa-facebook", "#"]
+				["fa-facebook", "https://www.facebook.com/jonas.hosemann"]
 			
 			]
 
 		[[params.team.members]]
-			img = "2.jpg"
-			name = "Rudi Wagner"
-			position = "2. Vorstand"
+			img = "stefanmayrboeck.jpg"
+			name = "Stefan Mayerböck"
+			position = "Eventbereater Management"
 			social = [
 				["fa-twitter", "#"],
-				["fa-facebook", "#"]
+				["fa-facebook", "https://www.facebook.com/stefan.mayrbock"]
 			
 			]
 
 		[[params.team.members]]
-			img = "3.jpg"
-			name = "Max Power"
-			position = "3. Vorstand"
+			img = "alexandergerstmayr.jpg"
+			name = "Alexander Gerstmayr"
+			position = "Technischer Berater"
 			social = [
 				["fa-twitter", "#"],
-				["fa-facebook", "#"]
+				["fa-facebook", "https://www.facebook.com/alex.gonz.180"]
 				
 			]
 
@@ -196,24 +196,20 @@ googleAnalytics = ""
 	# Footer section
 	[params.footer]
         enable = true
-		copyright = "Published under the Apache License 2.0."
+		copyright = "räbbiz by Langenmaier"
 
 		[[params.footer.social]]
 			icon = "fa-twitter"
-			link = "#"
+			link = "https://www.facebook.com/VPartyZusamaltheim/?fref=ts"
 
 		[[params.footer.social]]
 			icon = "fa-facebook"
-			link = "#"
-
-		[[params.footer.social]]
-			icon = "fa-linkedin"
-			link = "#"
+			link = "https://www.facebook.com/VPartyZusamaltheim/?fref=ts"		
 
 		[[params.footer.quicklinks]]
-			text = "Privacy Policy"
-			link = "#"
+			text = "V-Party"
+			link = "https://www.facebook.com/VPartyZusamaltheim/?fref=ts"
 
 		[[params.footer.quicklinks]]
-			text = "Terms of Use"
-			link = "#"
+			text = "13.-14.05.16"
+			link = "https://www.facebook.com/VPartyZusamaltheim/?fref=ts"
