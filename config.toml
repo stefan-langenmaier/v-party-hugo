@@ -1,9 +1,11 @@
-baseurl = "http://www.v-party.de/"
+baseurl = "http://v-party.de/"
 languageCode = "de-de"
 title = "V-PARTY"
 theme = "hugo-agency-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
+description = "v-party website"
+author = "räddbiz by langenmaier"
 
 
 [params]
@@ -62,19 +64,19 @@ googleAnalytics = ""
         [[params.services.row]]
 
             [[params.services.row.list]]
-                icon = "fa-shopping-cart"
+                icon = "fa-music"
                 title = "Musik"
-                description = "Wie auch jedes Jahr verwöhnen wir Euch mit Hardcorerave bis Stadelsound. Der Resident DJ Karotte vom angelclub ibitza wird Samstag für verschwitzte t-shirts sorgen. Am Freitag ist gandalf mit seiner Crew zu Gast!"
+                description = "Wie auch jedes Jahr verwöhnen wir Euch mit Hardcore-Rave bis Stadelsound. Der Resident DJ Karotte vom Angelclub ibiza wird Samstag für verschwitzte T-shirts sorgen. Am Freitag ist gandalf mit seiner Crew zu Gast!"
 
             [[params.services.row.list]]
-                icon = "fa-laptop"
+                icon = "fa-cutlery"
                 title = "Food"
-                description = "Auf Unserer 30meter Essensstraßeservieren Wir Euch Regionales Streetfood. Von Deftigem bis semivegan haben wir alles..."
+                description = "Auf unserer 30m Essensstraße servieren wir euch regionales Streetfood. Von Deftigem bis Semiveganem haben wir Alles..."
 
             [[params.services.row.list]]
-                icon = "fa-lock"
+                icon = "fa-beer"
                 title = "Drinks"
-                description = "Die Thekenlanschaft fasst auch dieses jahr wieder über 250 meter. Das Weisbierkarusell, die Coktailbar oder die Stände im Asenbreich laden auch jeden zum gemütlich verweilen ein..."
+                description = "Die Thekenlandschaft fasst auch dieses Jahr wieder über 250m. Das Weisbierkarusell, die Coktailbar oder die Stände im Außenbreich laden auch jeden zum gemütlichen verweilen ein..."
 
 	# Portfolio section
 	[params.portfolio]
@@ -105,8 +107,8 @@ googleAnalytics = ""
 		# Replace them with your own.
 		[[params.about.events]]
 			img = "1.jpg"
-			date = "2000-2001"
-			title = "Die erste Party steeigt in Sontheim"
+			date = "1997"
+			title = "Die erste Party steigt in Sontheim"
 			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
 
 		[[params.about.events]]
@@ -169,7 +171,7 @@ googleAnalytics = ""
 
 	# Client section
     [params.clients_list]
-        enable = true
+        enable = false
 
     	# All the clients' logos are stored under 'static/img/logos'.
     	# Replace them with your clients's logos.
