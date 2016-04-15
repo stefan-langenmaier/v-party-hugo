@@ -39,10 +39,10 @@ author = "räddbiz by langenmaier"
 	# Navigation
 	[params.navigation]
 		brand = "V-PARTY   13.-14.05.2016"
-		services = "News"
-		portfolio = "Anfahrt"
+		services = "Party"
+		portfolio = "Infos"
 		about = "Historie"
-		team = "Team|Kontakt"
+		team = "Kontakt"
 		contact = "Contact"
 
   
@@ -58,7 +58,7 @@ author = "räddbiz by langenmaier"
 	# Services section
 	[params.services]
         enable = true
-		title = "News"
+		title = "Party"
 		subtitle = "Aktuelle Infos rund ums Wochenende"
 
         [[params.services.row]]
@@ -66,12 +66,12 @@ author = "räddbiz by langenmaier"
             [[params.services.row.list]]
                 icon = "fa-music"
                 title = "Musik"
-                description = "Wie auch jedes Jahr verwöhnen wir Euch mit Hardcore-Rave bis Stadelsound. Der Resident DJ Karotte vom Angelclub ibiza wird Samstag für verschwitzte T-shirts sorgen. Am Freitag ist gandalf mit seiner Crew zu Gast!"
+                description = "<b>Freitag 13. Mai</b> <br> 2016 DJ Koiselmeyer (bekannt aus Radio Energie München, PM Untermeitingen, YumClub)<br> Warm Up DJ Van der Bunk <br><b> Samstag 14. Mai 2016</b><br>DJ Tonic (bekannt als Bayern-3-DJ und vom Bayern-3-Partyschiff 2015)<br> Warm Up DJ Van der Bunk.<br><b>Ein weiteres Highlight</b> <br>am Samstag ist unser Live-Rock-Zelt. <br>3 Bands heizen Euch hier mächtig ein…"
 
             [[params.services.row.list]]
                 icon = "fa-cutlery"
                 title = "Food"
-                description = "Auf unserer 30m Essensstraße servieren wir euch regionales Streetfood. Von Deftigem bis Semiveganem haben wir Alles..."
+                description = "Für das leibliche Wohl sorgt der Schützenverein Zusamaltheim mit Bratwurst- und Schnitzelsemmel. Ein weiterer Verpflegungs-Stand auf der V-Party bietet süße Leckereien von Schokobananen bis Bio-Kaffe."
 
             [[params.services.row.list]]
                 icon = "fa-beer"
@@ -85,12 +85,12 @@ author = "räddbiz by langenmaier"
 		# at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
 		# at the root of this Hugo site.
 		# For more informtion take a look at the README.
-		title = "Anfahrt"
-		subtitle = "Wie komm ich da hin?"
+		title = "Infos"
+		subtitle = "Was muss ich sonst so wissen?"
 
 		[params.portfolio.modal]
             client = "Client"
-            date = "Wann"
+
             category = "Category"
             buttonText = "zurück"
 
@@ -109,25 +109,25 @@ author = "räddbiz by langenmaier"
 			img = "1.jpg"
 			date = "1997"
 			title = "Die erste Party steigt in Sontheim"
-			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+			description = "Die V-Party ist als Idee auf einer Geburtstagsfeier 1996 geboren. Damals noch als Vernichter-Party. Die Erste Vernichter-Party stieg dann im Sommer 1997 in Sontheim. Eine legendäre Geschichte nahm Ihren Lauf… Neben der Party wurde auch jedes Jahr ein Faschingswagen gestaltet."
 
 		[[params.about.events]]
 			img = "2.jpg"
 			date = "Fasching 2006"
 			title = "Vereinsgründung"
-			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+			description = "Die Party wuchs von Jahr zu Jahr und erfreute sich immer höherer Beliebtheit. Um die Party auf geordnete Füße zu stellen wurde 2006 der Verein „Faschingsfreunde Zusamaltheim e.V.“ ins Leben gerufen."
 
 		[[params.about.events]]
 			img = "3.jpg"
-			date = "Mai 2010"
-			title = "Große Hitzewelle"
-			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+			date = "Mai 2015"
+			title = "Plötzlicher Umzug"
+			description = "Nicht mal plötziche Probleme mit Platz und Untergrund kann uns schlagen! Somit sind wir kurzfristig auf einen Nebenplatz umgezogen..."
 
 		[[params.about.events]]
 			img = "4.jpg"
 			date = "Mai 2016"
-			title = "Auf zum 15 Jubiläum"
-			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+			title = "Auf zum 20. Jubiläum"
+			description = "Im Jahr 2016 feiert der „Faschingsfreunde Zusamaltheim e.V.“ sein 10 Jähriges Jubiläum und gleichzeitig die 20. V-Party! Wir geben alles um Ihnen als Gast ein unvergessliches Party-Wochenende bieten zu können! Auch 2016 heißt es wieder PARTY TOTAL ERLEBEN!!!"
 
 
 	# Team section
@@ -135,7 +135,7 @@ author = "räddbiz by langenmaier"
         enable = true
 		title = "Euer Party Team"
 		subtitle = "steht für Fragen und Antworten bereit"
-		description = "Traut Euch und schreibt uns einfach auf Facebook, Twitter oder via eMail unter v-party@googlemail.com. Wir freuen uns von Euch zu Hören! Bis bald..."
+		description = "Traut Euch und schreibt uns einfach auf Facebook, Twitter oder via eMail unter v-party@gmx.de . Wir freuen uns von Euch zu Hören! Bis bald..."
 
 		# All team member's pictures are stored under 'static/img/team'.
 		# Replace them with your own too.
