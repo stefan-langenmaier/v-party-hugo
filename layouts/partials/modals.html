@@ -18,9 +18,6 @@
                         
                         <img class="img-responsive img-centered" src="img/portfolio/{{ .img }}" alt="">
                         <p>{{ .description | markdownify }}</p>
-                        <ul class="list-inline">
-                            <li>{{ with $.Site.Params.portfolio.modal.date }}{{ . }}{{ end }}: {{ .date }}</li>
-                        </ul>
                         <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> {{ with $.Site.Params.portfolio.modal.buttonText }}{{ . | markdownify }}{{ end }}</button>
                     </div>
                 </div>
