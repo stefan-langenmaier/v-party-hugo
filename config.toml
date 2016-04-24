@@ -66,7 +66,7 @@ author = "räddbiz by langenmaier"
             [[params.services.row.list]]
                 icon = "fa-music"
                 title = "Musik"
-                description = "<b>Freitag 13. Mai</b> <br> 2016 DJ Koiselmeyer (bekannt aus Radio Energie München, PM Untermeitingen, YumClub)<br> Warm Up DJ Van der Bunk <br><b> Samstag 14. Mai 2016</b><br>DJ Tonic (bekannt als Bayern-3-DJ und vom Bayern-3-Partyschiff 2015)<br> Warm Up DJ Van der Bunk.<br><b>Ein weiteres Highlight</b> <br>am Samstag ist unser Live-Rock-Zelt. <br>3 Bands heizen Euch hier mächtig ein…"
+                description = "<b>Freitag 13. Mai</b> <br> 2016 DJ Dominik Koislmeyer (bekannt aus Radio Energie München, PM Untermeitingen, YumClub)<br> Warm Up DJ Van der Bunk <br><b> Samstag 14. Mai 2016</b><br>DJ Tonic (bekannt als Bayern-3-DJ und vom Bayern-3-Partyschiff 2015)<br> Warm Up DJ Van der Bunk.<br><b>Ein weiteres Highlight</b> <br>am Samstag ist unser Live-Rock-Zelt. <br>3 Bands heizen Euch hier mächtig ein…"
 
             [[params.services.row.list]]
                 icon = "fa-cutlery"
@@ -76,7 +76,7 @@ author = "räddbiz by langenmaier"
             [[params.services.row.list]]
                 icon = "fa-beer"
                 title = "Drinks"
-                description = "Die Thekenlandschaft fasst auch dieses Jahr wieder über 250m. Das Weisbierkarusell, die Coktailbar oder die Stände im Außenbreich laden auch jeden zum gemütlichen verweilen ein..."
+                description = "Die Thekenlandschaft fasst auch dieses Jahr wieder über 250m. Das Weißbierkarusell, die Cocktailbar oder die Stände im Außenbreich laden auch jeden zum gemütlichen verweilen ein..."
 
 	# Portfolio section
 	[params.portfolio]
@@ -90,7 +90,6 @@ author = "räddbiz by langenmaier"
 
 		[params.portfolio.modal]
             client = "Client"
-
             category = "Category"
             buttonText = "zurück"
 
