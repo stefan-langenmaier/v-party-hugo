@@ -1,0 +1,21 @@
+Infos
+=====
+
+
+Theme
+-----
+
+das Theme findet man im branch _probable-vparty-start_ im Theme _hugo-agency-theme_
+
+Hugo
+----
+
+wird in der Version 0.15 verwendet
+
+Tipps
+-----
+
+* cmd aufmachen
+* eintippen: cd C:\Users\Wagner Rudi\V-Party-Website\v-party-hugo
+* eintippen: ..\hugo_0.15_windows_amd64.exe server
+* dann läuft ein test server auf der adresse http://localhost:1313

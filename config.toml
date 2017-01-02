@@ -37,7 +37,7 @@ author = "räddbiz by langenmaier"
 
 	# Navigation
 	[params.navigation]
-		brand = "V-PARTY  "
+		brand = "V-PARTY 02.-03.06.2017"
 		services = "Party"
 		portfolio = "Infos"
 		about = "Historie"
@@ -50,7 +50,7 @@ author = "räddbiz by langenmaier"
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
 		title = "Willkommen auf Deiner Party!"
-		subtitle = "V - PARTY Zusamaltheim!"
+		subtitle = "V - PARTY 2017 Zusamaltheim!"
 		buttonText = "Was gibts Neues"
 
 
@@ -211,5 +211,5 @@ author = "räddbiz by langenmaier"
 			link = "https://www.facebook.com/VPartyZusamaltheim/?fref=ts"
 
 		[[params.footer.quicklinks]]
-			text = "2016"
+			text = "02.-03.06.2017"
 			link = "https://www.facebook.com/VPartyZusamaltheim/?fref=ts"
