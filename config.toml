@@ -37,7 +37,7 @@ author = "räddbiz by langenmaier"
 
 	# Navigation
 	[params.navigation]
-		brand = "V-PARTY 02.-03.06.2017"
+		brand = "V-PARTY 02.-03. Juni 2017"
 		services = "Party"
 		portfolio = "Infos"
 		about = "Historie"
@@ -66,7 +66,6 @@ author = "räddbiz by langenmaier"
                 icon = "fa-music"
                 title = "Musik"
                 description = "<b> Samstag </b><br>DJ Tonic (bekannt als Bayern-3-DJ und vom Bayern-3-Partyschiff 2015)<br> Warm Up DJ Van der Bunk.<br><b>Ein weiteres Highlight</b> <br>Unser Live-Rock-Zelt. <br>3 Bands heizen Euch hier mächtig ein…"
-
             [[params.services.row.list]]
                 icon = "fa-cutlery"
                 title = "Food"
