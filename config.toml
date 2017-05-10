@@ -38,7 +38,7 @@ author = "räddbiz by langenmaier"
 
 	# Navigation
 	[params.navigation]
-		brand = "V-PARTY   13.-14.05.2016"
+		brand = "V-PARTY  "
 		services = "Party"
 		portfolio = "Infos"
 		about = "Historie"
@@ -51,7 +51,7 @@ author = "räddbiz by langenmaier"
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
 		title = "Willkommen auf Deiner Party!"
-		subtitle = "V - PARTY 2016 Zusamaltheim!"
+		subtitle = "V - PARTY Zusamaltheim!"
 		buttonText = "Was gibts Neues"
 
 
@@ -66,12 +66,12 @@ author = "räddbiz by langenmaier"
             [[params.services.row.list]]
                 icon = "fa-music"
                 title = "Musik"
-                description = "<b>Freitag 13. Mai</b> <br> 2016 DJ Dominik Koislmeyer (bekannt aus Radio Energie München, PM Untermeitingen, YumClub)<br> Warm Up DJ Van der Bunk <br><b> Samstag 14. Mai 2016</b><br>DJ Tonic (bekannt als Bayern-3-DJ und vom Bayern-3-Partyschiff 2015)<br> Warm Up DJ Van der Bunk.<br><b>Ein weiteres Highlight</b> <br>am Samstag ist unser Live-Rock-Zelt. <br>3 Bands heizen Euch hier mächtig ein…"
+                description = "<b> Samstag </b><br>DJ Tonic (bekannt als Bayern-3-DJ und vom Bayern-3-Partyschiff 2015)<br> Warm Up DJ Van der Bunk.<br><b>Ein weiteres Highlight</b> <br>Unser Live-Rock-Zelt. <br>3 Bands heizen Euch hier mächtig ein…"
 
             [[params.services.row.list]]
                 icon = "fa-cutlery"
                 title = "Food"
-                description = "Für das leibliche Wohl sorgt der Schützenverein Zusamaltheim mit Bratwurst- und Schnitzelsemmel. Ein weiterer Verpflegungs-Stand auf der V-Party bietet süße Leckereien von Schokobananen bis Bio-Kaffe."
+                description = "Für das leibliche Wohl sorgt der Schützenverein Zusamaltheim mit Bratwurst- und Schnitzelsemmel. Ein weiterer Verpflegungs-Stand auf der V-Party bietet süße Leckereien von Schokobananen bis Bio-Kaffee."
 
             [[params.services.row.list]]
                 icon = "fa-beer"
@@ -212,5 +212,5 @@ author = "räddbiz by langenmaier"
 			link = "https://www.facebook.com/VPartyZusamaltheim/?fref=ts"
 
 		[[params.footer.quicklinks]]
-			text = "13.-14.05.16"
+			text = "2016"
 			link = "https://www.facebook.com/VPartyZusamaltheim/?fref=ts"
