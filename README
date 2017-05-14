@@ -15,7 +15,11 @@ wird in der Version 0.15 verwendet
 Tipps
 -----
 
-* cmd aufmachen
-* eintippen: cd C:\Users\Wagner Rudi\V-Party-Website\v-party-hugo
-* eintippen: ..\hugo_0.15_windows_amd64.exe server
+* cmd aufmachen (windows rechtsklick administrator)
+* eintippen: cd C:\Users\Wagner Rudi\V-Party-Website\v-party-hugo (geht in ordner)
+* eintippen: ..\hugo_0.15_windows_amd64.exe server (führt den generator aus und macht eine vorschau)
+benutzer=user
+
 * dann läuft ein test server auf der adresse http://localhost:1313
+
+
