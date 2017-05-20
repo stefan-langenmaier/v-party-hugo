@@ -65,11 +65,11 @@ author = "räddbiz by langenmaier"
             [[params.services.row.list]]
                 icon = "fa-music"
                 title = "Musik"
-                description = "<b> Samstag </b><br>DJ Tonic (bekannt als Bayern-3-DJ und vom Bayern-3-Partyschiff 2015)<br> Warm Up DJ Van der Bunk.<br><b>Ein weiteres Highlight</b> <br>Unser Live-Rock-Zelt. <br>3 Bands heizen Euch hier mächtig ein…"
+                description = "<b> Freitag 02.06.17 </b><br>DJ KYCO aus Frankfurt<br>www.facebook.com/kycomusic<br>Warm Up Karrer&Rahmero <br><b> Samstag 03.06.17 </b><br>DJ TONIC von Bayern 3<br>www.facebook.com/de.djtonic<br>Warm Up Markus van der Bunk </b><br><b> Ein weiteres Highlight </b> <br>Unser Live-Rock-Zelt am Samstag <br>3 Bands heizen Euch hier mächtig ein…"
             [[params.services.row.list]]
                 icon = "fa-cutlery"
                 title = "Food"
-                description = "Für das leibliche Wohl sorgt der Schützenverein Zusamaltheim mit Bratwurst- und Schnitzelsemmel. Ein weiterer Verpflegungs-Stand auf der V-Party bietet süße Leckereien von Schokobananen bis Bio-Kaffee."
+                description = "Für das leibliche Wohl sorgt der Schützenverein Zusamaltheim mit Pommes, Bratwurst- und Schnitzelsemmel. Ein weiterer Verpflegungs-Stand auf der V-Party bietet süße Leckereien von Schokobananen bis Bio-Kaffee."
 
             [[params.services.row.list]]
                 icon = "fa-beer"
@@ -124,7 +124,13 @@ author = "räddbiz by langenmaier"
 			img = "4.jpg"
 			date = "Mai 2016"
 			title = "Auf zum 20. Jubiläum"
-			description = "Im Jahr 2016 feiert der „Faschingsfreunde Zusamaltheim e.V.“ sein 10 Jähriges Jubiläum und gleichzeitig die 20. V-Party! Wir geben alles um Ihnen als Gast ein unvergessliches Party-Wochenende bieten zu können! Auch 2016 heißt es wieder PARTY TOTAL ERLEBEN!!!"
+			description = "Im Jahr 2016 feiert der „Faschingsfreunde Zusamaltheim e.V.“ sein 10 Jähriges Jubiläum und gleichzeitig die 20. V-Party! Auf Grund des Unwetters von Freitag Abend musste die Party kurzfristig abgesagt werden. Glücklicherweise konnte dafür am Sonntag nochmal gefeiert werden! Hierfür nochmal herzlichen Danke an alle Beteiligten!"
+
+	        [[params.about.events]]
+			img = "4.jpg"
+			date = "Juni 2017"
+			title = "Party-Total-Erleben"
+			description = "Wir versuchen heuer wieder unser Bestes zu geben und die V-Party für euch unvergesslich zu machen! Auch 2017 heißt es wieder PARTY TOTAL ERLEBEN!!!"
 
 
 	# Team section
