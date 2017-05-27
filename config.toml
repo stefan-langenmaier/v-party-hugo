@@ -76,6 +76,11 @@ author = "räddbiz by langenmaier"
                 title = "Drinks"
                 description = "Die Thekenlandschaft fasst auch dieses Jahr wieder über 250m. Das Weißbierkarusell, die Cocktailbar oder die Stände im Außenbreich laden auch jeden zum gemütlichen verweilen ein..."
 
+	    [[params.services.row.list]]
+                icon = "fa-money"
+                title = "Eintritt"
+                description = "Kein Einlass unter 18 Jahren!<br />Tickets gibts nur an der Abenkasse!<br />Vergünstigter Eintritt durch Wochenend-Ticket"
+
 	# Portfolio section
 	[params.portfolio]
         enable = true
@@ -84,7 +89,7 @@ author = "räddbiz by langenmaier"
 		# at the root of this Hugo site.
 		# For more informtion take a look at the README.
 		title = "Infos"
-		subtitle = "Was muss ich sonst so wissen?"
+		subtitle = "Was muss ich sonst noch wissen?"
 
 		[params.portfolio.modal]
             client = "Client"
@@ -121,13 +126,13 @@ author = "räddbiz by langenmaier"
 			description = "Nicht mal plötziche Probleme mit Platz und Untergrund kann uns schlagen! Somit sind wir kurzfristig auf einen Nebenplatz umgezogen..."
 
 		[[params.about.events]]
-			img = "4.jpg"
+			img = "5.jpg"
 			date = "Mai 2016"
 			title = "Auf zum 20. Jubiläum"
 			description = "Im Jahr 2016 feiert der „Faschingsfreunde Zusamaltheim e.V.“ sein 10 Jähriges Jubiläum und gleichzeitig die 20. V-Party! Auf Grund des Unwetters von Freitag Abend musste die Party kurzfristig abgesagt werden. Glücklicherweise konnte dafür am Sonntag nochmal gefeiert werden! Hierfür nochmal herzlichen Danke an alle Beteiligten!"
 
 	        [[params.about.events]]
-			img = "4.jpg"
+			img = "6.jpg"
 			date = "Juni 2017"
 			title = "Party-Total-Erleben"
 			description = "Wir versuchen heuer wieder unser Bestes zu geben und die V-Party für euch unvergesslich zu machen! Auch 2017 heißt es wieder PARTY TOTAL ERLEBEN!!!"
