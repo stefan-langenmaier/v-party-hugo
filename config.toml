@@ -37,7 +37,7 @@ author = "räddbiz by langenmaier"
 
 	# Navigation
 	[params.navigation]
-		brand = "V-PARTY 02.-03. Juni 2017"
+		brand = "V-PARTY 18.-19. Mai 2018"
 		services = "Party"
 		portfolio = "Infos"
 		about = "Historie"
@@ -50,7 +50,7 @@ author = "räddbiz by langenmaier"
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
 		title = "Willkommen auf Deiner Party!"
-		subtitle = "V - PARTY 2017 Zusamaltheim!"
+		subtitle = "V - PARTY 2018 Zusamaltheim!"
 		buttonText = "Was gibts Neues"
 
 
@@ -65,7 +65,8 @@ author = "räddbiz by langenmaier"
             [[params.services.row.list]]
                 icon = "fa-music"
                 title = "Musik"
-                description = "<b> Freitag 02.06.17 </b><br>DJ KYCO aus Frankfurt<br>www.facebook.com/kycomusic<br>Warm Up Karrer&Rahmero <br><b> Samstag 03.06.17 </b><br>DJ TONIC von Bayern 3<br>www.facebook.com/de.djtonic<br>Warm Up Markus van der Bunk </b><br><b> Ein weiteres Highlight </b> <br>Unser Live-Rock-Zelt am Samstag <br>3 Bands heizen Euch hier mächtig ein…"
+                description = "<b> Freitag 18.05.18 </b><br>DJ Dominik Koislmeyer<br>www.facebook.com/koislmeyer/</b><br>HYPERCAT<br>www.facebook.com/thehypercat/</b><br>DJ Moestwanded<br>www.facebook.com/moestwanted/  <br><br><b> Samstag 19.05.18 </b><br>DJ TONIC von Bayern 3<br>www.facebook.com/de.djtonic</br><br><b> Ein weiteres Highlight </b> <br>Freitag: Partyband Sexmoß<br>www.facebook.com/Sexmoss/<br>Samstag: Live-Rock-Zelt mit 3 Bands."
+
             [[params.services.row.list]]
                 icon = "fa-cutlery"
                 title = "Food"
