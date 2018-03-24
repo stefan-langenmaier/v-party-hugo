@@ -43,6 +43,7 @@ author = "räddbiz by langenmaier"
 		about = "Historie"
 		team = "Kontakt"
 		contact = "Contact"
+		chronic = "Chronik"
 
   
 	# Hero section
@@ -65,17 +66,17 @@ author = "räddbiz by langenmaier"
             [[params.services.row.list]]
                 icon = "fa-music"
                 title = "Musik"
-                description = "<b> Freitag 18.05.18 </b><br>DJ Dominik Koislmeyer<br>www.facebook.com/koislmeyer/</b><br>HYPERCAT<br>www.facebook.com/thehypercat/</b><br>DJ Moestwanded<br>www.facebook.com/moestwanted/  <br><br><b> Samstag 19.05.18 </b><br>DJ TONIC von Bayern 3<br>www.facebook.com/de.djtonic</br><br><b> Ein weiteres Highlight </b> <br>Freitag: Partyband Sexmoß<br>www.facebook.com/Sexmoss/<br>Samstag: Live-Rock-Zelt mit 3 Bands."
+                description = "<b> Freitag 18.05.18 </b><br><a href=\"https://www.facebook.com/koislmeyer/\" target=\"_blank\">DJ DOMINIK KOISLMEYER</a><br></b><a href=\"https://www.facebook.com/thehypercat/\" target=\"_blank\">HYPERCAT</a><br><a href=\"https://www.facebook.com/moestwanted/\" target=\"_blank\">DJ MOESTWANTED</a> <br><br><b> Samstag 19.05.18 </b><br><a href=\"https://www.facebook.com/de.djtonic/\" target=\"_blank\">DJ TONIC</a> von Bayern 3</br><br><b> Ein weiteres Highlight </b> <br>Freitag: Partyband <a href=\"https://www.facebook.com/Sexmoss/\" target=\"_blank\">SEXMOß</a><br>Samstag: Live-Rock-Zelt mit 3 Bands."
 
             [[params.services.row.list]]
                 icon = "fa-cutlery"
                 title = "Food"
-                description = "Für das leibliche Wohl sorgt der Schützenverein Zusamaltheim mit Pommes, Bratwurst- und Schnitzelsemmel. Ein weiterer Verpflegungs-Stand auf der V-Party bietet süße Leckereien von Schokobananen bis Bio-Kaffee."
+                description = "Für das leibliche Wohl sorgt der Schützenverein Zusamaltheim mit Pommes, Wurstsalat, Bratwurst- und Schnitzelsemmel. Ein weiterer Verpflegungs-Stand auf der V-Party bietet süße Leckereien von Schokobananen bis Bio-Kaffee."
 
             [[params.services.row.list]]
                 icon = "fa-beer"
                 title = "Drinks"
-                description = "Die Thekenlandschaft fasst auch dieses Jahr wieder über 250m. Das Weißbierkarusell, die Cocktailbar oder die Stände im Außenbreich laden auch jeden zum gemütlichen verweilen ein..."
+                description = "Die Thekenlandschaft fasst auch dieses Jahr wieder über 250m. Die Bar im Zelt, das Weißbierkarusell, die Cocktailbar oder die Stände im Außenbreich laden auch jeden zum gemütlichen Verweilen ein..."
 
 	    [[params.services.row.list]]
                 icon = "fa-money"
@@ -222,5 +223,5 @@ author = "räddbiz by langenmaier"
 			link = "https://www.facebook.com/VPartyZusamaltheim/?fref=ts"
 
 		[[params.footer.quicklinks]]
-			text = "02.-03.06.2017"
+			text = "18.-19.05.2017"
 			link = "https://www.facebook.com/VPartyZusamaltheim/?fref=ts"
