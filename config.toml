@@ -66,7 +66,7 @@ author = "räddbiz by langenmaier"
             [[params.services.row.list]]
                 icon = "fa-music"
                 title = "Musik"
-                description = "<b>Freitag 18.05.18 </b><br><a href=\"https://www.facebook.com/koislmeyer/\" target=\"_blank\">DJ DOMINIK KOISLMEYER</a><br></b><a href=\"https://www.facebook.com/thehypercat/\" target=\"_blank\">HYPERCAT</a><br><a href=\"https://www.facebook.com/moestwanted/\" target=\"_blank\">DJ MOESTWANTED</a> <br><br><b> Samstag 19.05.18 </b><br><a href=\"https://www.facebook.com/de.djtonic/\" target=\"_blank\">DJ TONIC</a> von Bayern 3</br><br><b> Ein weiteres Highlight </b> <br>Freitag: Musikkapelle <a href=\"https://www.facebook.com/Musikverein-Zusamaltheim-313799181980667/\" target=\"_blank\">Zusamaltheim</a><br> Partyband <a href=\"https://www.facebook.com/Sexmoss/\" target=\"_blank\">SEXMOß</a><br>Samstag: Live-Rock-Zelt mit 3 Bands.<br>Agravic<br>Savage Rock<br>Sprachrohr"
+                description = "<b>Freitag 18.05.18 </b><br><a href=\"https://www.facebook.com/koislmeyer/\" target=\"_blank\">DJ DOMINIK KOISLMEYER</a><br></b><a href=\"https://www.facebook.com/thehypercat/\" target=\"_blank\">HYPERCAT</a><br><a href=\"https://www.facebook.com/moestwanted/\" target=\"_blank\">DJ MOESTWANTED</a> <br><br><b> Samstag 19.05.18 </b><br><a href=\"https://www.facebook.com/de.djtonic/\" target=\"_blank\">DJ TONIC</a> von Bayern 3</br><br><b> Ein weiteres Highlight </b> <br>Freitag: Musikkapelle <a href=\"https://www.facebook.com/Musikverein-Zusamaltheim-313799181980667/\" target=\"_blank\">Zusamaltheim</a><br> Partyband <a href=\"https://www.facebook.com/Sexmoss/\" target=\"_blank\">SEXMOß</a><br>Samstag: Live-Rock-Zelt mit 3 Bands.<br><a href=\"https://www.facebook.com/AgravicOfficial/\" target=\"_blank\">Agravic</a><br><a href=\"https://www.facebook.com/SavageRocklive/\" target=\"_blank\">SavageRock</a><br><a href=\"https://www.facebook.com/SprachrohrBand/\" target=\"_blank\">Sprachrohr</a>"
 
             [[params.services.row.list]]
                 icon = "fa-cutlery"
@@ -81,7 +81,7 @@ author = "räddbiz by langenmaier"
 	    [[params.services.row.list]]
                 icon = "fa-money"
                 title = "Eintritt"
-                description = "Kein Einlass unter 18 Jahren!<br />Tickets gibts nur an der Abenkasse!<br />Vergünstigter Eintritt durch Wochenend-Ticket"
+                description = "Kein Einlass unter 18 Jahren!<br />Tickets gibts nur an der Abenkasse!<br />Vergünstigter Eintritt durch Wochenend-Ticket!<br />Organisiert einen eigenen Bus und bekommt eure Eintrittsbändchen schneller und günstiger!"
 
 	# Portfolio section
 	[params.portfolio]
@@ -136,9 +136,14 @@ author = "räddbiz by langenmaier"
 	        [[params.about.events]]
 			img = "6.jpg"
 			date = "Juni 2017"
-			title = "Party-Total-Erleben"
-			description = "Wir versuchen heuer wieder unser Bestes zu geben und die V-Party für euch unvergesslich zu machen! Auch 2017 heißt es wieder PARTY TOTAL ERLEBEN!!!"
+			title = "Heißeste Party ever"
+			description = "Es wurde getanzt bis der Schweiß von der Decke tropfte! Was für eine Party - welch geile Gäste!!!"
 
+                [[params.about.events]]
+			img = "7.jpg"
+			date = "Mai 2018"
+			title = "Party-Total-Erleben"
+			description = "Wir versuchen heuer wieder unser Bestes zu geben und die V-Party für euch unvergesslich zu machen! Auch 2018 heißt es wieder PARTY TOTAL ERLEBEN!!!"
 
 	# Team section
 	[params.team]
