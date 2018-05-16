@@ -150,7 +150,7 @@ author = "räddbiz by langenmaier"
         enable = true
 		title = "Euer Party Team"
 		subtitle = "steht für Fragen und Antworten bereit"
-		description = "Traut Euch und schreibt uns einfach auf Facebook, Twitter oder via eMail unter v-party@gmx.de . Wir freuen uns von Euch zu Hören! Bis bald..."
+		description = "Traut Euch und schreibt uns einfach auf Facebook, Twitter oder via eMail unter <a href=\"mailto:v-party@gmx.de\" target=\"_blank\">v-party@gmx.de</a> . Wir freuen uns von Euch zu Hören! Bis bald..."
 
 		# All team member's pictures are stored under 'static/img/team'.
 		# Replace them with your own too.

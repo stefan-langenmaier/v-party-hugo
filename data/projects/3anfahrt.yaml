@@ -1,6 +1,6 @@
 modalID: 2
 title: Zusamaltheim
-subtitle: So leicht gehts zu uns...   <a href=\"https://www.google.de/maps/dir//V-Party+Zusamaltheim,+Zusamaltheim/\" target=\"_blank\">LINK</a>
+subtitle: <a href="https://www.google.de/maps/dir//V-Party+Zusamaltheim,+Zusamaltheim/" target="_blank">So leicht gehts zu uns...</a>
 img: anfahrt.jpg
 preview: anfahrt.jpg
 client: Start Bootstrap
