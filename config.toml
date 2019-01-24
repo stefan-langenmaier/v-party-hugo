@@ -37,7 +37,7 @@ author = "räddbiz by langenmaier"
 
 	# Navigation
 	[params.navigation]
-		brand = "V-PARTY 07.-08. Juni 2019 - Party-Total-Erleben!"
+		brand = "V-PARTY 07.-08. Juni 2019"
 		services = "Party"
 		portfolio = "Infos"
 		about = "Historie"
