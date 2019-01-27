@@ -177,7 +177,7 @@ author = "räddbiz by langenmaier"
 		[[params.team.members]]
 			img = "alexandergerstmayr.jpg"
 			name = "Alexander Gerstmayr"
-			position = "Technischer Berater"
+			position = "Technischer Berater & Vorkoster"
 			social = [
 				["fa-twitter", "#"],
 				["fa-facebook", "https://www.facebook.com/alex.gonz.180"]
