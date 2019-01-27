@@ -112,8 +112,8 @@ author = "räddbiz by langenmaier"
 		[[params.about.events]]
 			img = "1.jpg"
 			date = "1997"
-			title = "Die erste Party steigt in Sontheim"
-			description = "Die V-Party ist als Idee auf einer Geburtstagsfeier 1996 geboren. Damals noch als Vernichter-Party. Die Erste Vernichter-Party stieg dann im Sommer 1997 in Sontheim. Eine legendäre Geschichte nahm Ihren Lauf… Neben der Party wurde auch jedes Jahr ein Faschingswagen gestaltet."
+			title = "Die Erste Party steigt in Sontheim"
+			description = "Die V-Party ist als Idee auf einer Geburtstagsfeier 1996 geboren. Damals noch als Vernichter-Party. Die Erste Vernichter-Party stieg dann im Sommer 1997 in Sontheim. Eine legendäre Geschichte nahm ihren Lauf… Neben der Party wurde auch jedes Jahr ein Faschingswagen gestaltet."
 
 		[[params.about.events]]
 			img = "2.jpg"
@@ -125,13 +125,13 @@ author = "räddbiz by langenmaier"
 			img = "3.jpg"
 			date = "Mai 2015"
 			title = "Plötzlicher Umzug"
-			description = "Nicht mal plötziche Probleme mit Platz und Untergrund kann uns schlagen! Somit sind wir kurzfristig auf einen Nebenplatz umgezogen..."
+			description = "Nicht mal plötziche Probleme mit Platz und Untergrund können uns schlagen! Somit sind wir kurzfristig auf einen Nebenplatz umgezogen..."
 
 		[[params.about.events]]
 			img = "5.jpg"
 			date = "Mai 2016"
 			title = "Auf zum 20. Jubiläum"
-			description = "Im Jahr 2016 feiert der „Faschingsfreunde Zusamaltheim e.V.“ sein 10 Jähriges Jubiläum und gleichzeitig die 20. V-Party! Auf Grund des Unwetters von Freitag Abend musste die Party kurzfristig abgesagt werden. Glücklicherweise konnte dafür am Sonntag nochmal gefeiert werden! Hierfür nochmal herzlichen Danke an alle Beteiligten!<br><a href=\"https:/www.facebook.com/VPartyZusamaltheim/videos/1027099864070390/\" target=\"_blank\">AFTERMOVIE 2016</a>"
+			description = "Im Jahr 2016 feiert der „Faschingsfreunde Zusamaltheim e.V.“ sein 10-jähriges Jubiläum und gleichzeitig die 20. V-Party! Auf Grund des Unwetters von Freitag Abend musste die Party kurzfristig abgesagt werden. Glücklicherweise konnte dafür am Sonntag nochmal gefeiert werden! Hierfür nochmal herzlichen Dank an alle Beteiligten!<br><a href=\"https:/www.facebook.com/VPartyZusamaltheim/videos/1027099864070390/\" target=\"_blank\">AFTERMOVIE 2016</a>"
 
 	        [[params.about.events]]
 			img = "6.jpg"
@@ -143,14 +143,14 @@ author = "räddbiz by langenmaier"
 			img = "7.jpg"
 			date = "Mai 2018"
 			title = "Party-Total-Erleben"
-			description = "Was für ein Wochenende! Freitag totale Eskalation mit HYPERTCAT und DJ Moestwanted und Samstag trotz spätnachmittaglichem Regen und Gewitter PARTY TOTAL ERLEBEN mit DJ EL MAR!!!"
+			description = "Was für ein Wochenende! Freitag totale Eskalation mit HYPERCAT und DJ Moestwanted und Samstag trotz spätnachmittaglichem Regen und Gewitter PARTY TOTAL ERLEBEN mit DJ EL MAR!!!"
 
 	# Team section
 	[params.team]
         enable = true
 		title = "Euer Party Team"
 		subtitle = "steht für Fragen und Antworten bereit"
-		description = "Traut Euch und schreibt uns einfach auf Facebook, Twitter oder via eMail unter <a href=\"mailto:v-party@gmx.de\" target=\"_blank\">v-party@gmx.de</a> . Wir freuen uns von Euch zu Hören! Bis bald..."
+		description = "Traut Euch und schreibt uns einfach auf Facebook, Twitter oder via eMail unter <a href=\"mailto:v-party@gmx.de\" target=\"_blank\">v-party@gmx.de</a> . Wir freuen uns von Euch zu hören! Bis bald..."
 
 		# All team member's pictures are stored under 'static/img/team'.
 		# Replace them with your own too.
@@ -167,7 +167,7 @@ author = "räddbiz by langenmaier"
 		[[params.team.members]]
 			img = "stefanmayrboeck.jpg"
 			name = "Stefan Mayerböck"
-			position = "Eventbereater Management"
+			position = "Eventberater Management"
 			social = [
 				["fa-twitter", "#"],
 				["fa-facebook", "https://www.facebook.com/stefan.mayrbock"]
