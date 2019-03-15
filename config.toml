@@ -50,8 +50,8 @@ author = "räddbiz by langenmaier"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg_1.jpg' in
 		# the 'static/img' folder.
-		title = "Willkommen auf Deiner Party!"
-		subtitle = "V - PARTY 2019 Zusamaltheim!"
+		title = "V - PARTY 2019 Zusamaltheim"
+		subtitle = "PARTY - TOTAL - ERLEBRN!!!"
 		buttonText = "Was gibts Neues"
 
 
@@ -66,12 +66,12 @@ author = "räddbiz by langenmaier"
             [[params.services.row.list]]
                 icon = "fa-music"
                 title = "Musik"
-                description = "<b>Programm 2019 noch offen<br><br>Das war 2018:<br><br><b>Freitag 18.05.18 </b><br><a href=\"https://www.facebook.com/koislmeyer/\" target=\"_blank\">DJ DOMINIK KOISLMEYER</a><br></b><a href=\"https://www.facebook.com/thehypercat/\" target=\"_blank\">HYPERCAT</a><br><a href=\"https://www.facebook.com/moestwanted/\" target=\"_blank\">DJ MOESTWANTED</a> <br><br><b> Samstag 19.05.18 </b><br><a href=\"https://www.facebook.com/de.djtonic/\" target=\"_blank\">DJ TONIC</a> von Bayern 3</br><br><b> Ein weiteres Highlight </b> <br>Freitag: Musikkapelle <a href=\"https://www.facebook.com/Musikverein-Zusamaltheim-313799181980667/\" target=\"_blank\">Zusamaltheim</a><br> Partyband <a href=\"https://www.facebook.com/Sexmoss/\" target=\"_blank\">SEXMOß</a><br>Samstag: Live-Rock-Zelt mit 3 Bands.<br><a href=\"https://www.facebook.com/AgravicOfficial/\" target=\"_blank\">Agravic</a><br><a href=\"https://www.facebook.com/SavageRocklive/\" target=\"_blank\">SavageRock</a><br><a href=\"https://www.facebook.com/SprachrohrBand/\" target=\"_blank\">Sprachrohr</a>"
+                description = "<b>Programm 2019 noch offen<br>"
 
             [[params.services.row.list]]
                 icon = "fa-cutlery"
                 title = "Food"
-                description = "Für das leibliche Wohl sorgt der Schützenverein Zusamaltheim mit Pommes, Wurstsalat, Bratwurst- und Schnitzelsemmel. Ein weiterer Verpflegungs-Stand auf der V-Party bietet süße Leckereien von Schokobananen bis Bio-Kaffee."
+                description = "Für das leibliche Wohl sorgt der Schützenverein Zusamaltheim mit Pommes, Wurstsalat, Bratwurst- und Schnitzelsemmel. Ein weiterer Verpflegungs-Stand auf der V-Party bietet süße Crepes in verschiedenen Geschmacksrichtungen und Kaffee."
 
             [[params.services.row.list]]
                 icon = "fa-beer"
@@ -109,41 +109,156 @@ author = "räddbiz by langenmaier"
 		# The events will be listed from the top to the bottom.
 		# All images are stored under 'static/img/about'.
 		# Replace them with your own.
-		[[params.about.events]]
-			img = "1.jpg"
-			date = "1997"
-			title = "Die Erste Party steigt in Sontheim"
-			description = "Die V-Party ist als Idee auf einer Geburtstagsfeier 1996 geboren. Damals noch als Vernichter-Party. Die Erste Vernichter-Party stieg dann im Sommer 1997 in Sontheim. Eine legendäre Geschichte nahm ihren Lauf… Neben der Party wurde auch jedes Jahr ein Faschingswagen gestaltet."
 
 		[[params.about.events]]
-			img = "2.jpg"
+			img = "Flyer_97.jpg"
+			date = "1997"
+			title = "Die erste Party steigt im Bauwagen"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_98_1.jpg"
+			date = "1998/1"
+			title = "Die zweite Party steigt im Bauwagen"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_98_2.jpg"
+			date = "1998/2"
+			title = "Die dritte Party steigt im Pfannental"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_99.jpg"
+			date = "1999"
+			title = "Die vierte Party steigt in Sontheim"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_fehlt.jpg"
+			date = "2000/1"
+			title = "Die fünfte Party steigt auf Böhms Wiese"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_00.jpg"
+			date = "2000/2"
+			title = "AAA"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_fehlt.jpg"
+			date = "2001"
+			title = "AAA"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_fehlt.jpg"
+			date = "2002"
+			title = "AAA"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_03.jpg"
+			date = "2003"
+			title = "AAA"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_fehlt.jpg"
+			date = "2004"
+			title = "AAA"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_fehlt.jpg"
+			date = "2005"
+			title = "AAA"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_fehlt.jpg"
 			date = "Fasching 2006"
 			title = "Vereinsgründung"
 			description = "Die Party wuchs von Jahr zu Jahr und erfreute sich immer höherer Beliebtheit. Um die Party auf geordnete Füße zu stellen wurde 2006 der Verein „Faschingsfreunde Zusamaltheim e.V.“ ins Leben gerufen."
 
 		[[params.about.events]]
-			img = "3.jpg"
-			date = "Mai 2015"
+			img = "Flyer_fehlt.jpg"
+			date = "2007"
+			title = "AAA"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_fehlt.jpg"
+			date = "2008"
+			title = "AAA"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_09.jpg"
+			date = "2009"
+			title = "AAA"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_10.jpg"
+			date = "2010"
+			title = "AAA"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_11.jpg"
+			date = "2011"
+			title = "AAA"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_12.jpg"
+			date = "2012"
+			title = "AAA"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_13.jpg"
+			date = "2013"
+			title = "AAA"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_14.jpg"
+			date = "2014"
+			title = "AAA"
+			description = "BBB"
+
+		[[params.about.events]]
+			img = "Flyer_15.jpg"
+			date = "2015"
 			title = "Plötzlicher Umzug"
 			description = "Nicht mal plötziche Probleme mit Platz und Untergrund können uns schlagen! Somit sind wir kurzfristig auf einen Nebenplatz umgezogen..."
 
 		[[params.about.events]]
-			img = "5.jpg"
-			date = "Mai 2016"
+			img = "Flyer_16.jpg"
+			date = "2016"
 			title = "Auf zum 20. Jubiläum"
-			description = "Im Jahr 2016 feiert der „Faschingsfreunde Zusamaltheim e.V.“ sein 10-jähriges Jubiläum und gleichzeitig die 20. V-Party! Auf Grund des Unwetters von Freitag Abend musste die Party kurzfristig abgesagt werden. Glücklicherweise konnte dafür am Sonntag nochmal gefeiert werden! Hierfür nochmal herzlichen Dank an alle Beteiligten!<br><a href=\"https:/www.facebook.com/VPartyZusamaltheim/videos/1027099864070390/\" target=\"_blank\">AFTERMOVIE 2016</a>"
+			description = "Im Jahr 2016 feiert der „Faschingsfreunde Zusamaltheim e.V.“ sein 10-jähriges Jubiläum und gleichzeitig die 20. V-Party! Auf Grund des Unwetters von Freitag Abend musste die Party kurzfristig abgesagt werden. Glücklicherweise konnte dafür am Sonntag nochmal gefeiert werden! Hierfür nochmal herzlichen Dank an alle Beteiligten!<br><a href=\"https:/www.facebook.com/VPartyZusamaltheim/videos/1027099864070390/\" target=\"_blank\">AFTERMOVIE 2016</a><br>test"
 
 	        [[params.about.events]]
-			img = "6.jpg"
-			date = "Juni 2017"
+			img = "Flyer_17.jpg"
+			date = "2017"
 			title = "Heißeste Party ever"
 			description = "Es wurde getanzt bis der Schweiß von der Decke tropfte! Was für eine Party - welch geile Gäste!!!<br><a href=\"https:/www.youtube.com/watch?v=6RCnBiIPOO8/\" target=\"_blank\">AFTERMOVIE 2017</a>"
 
                 [[params.about.events]]
-			img = "7.jpg"
-			date = "Mai 2018"
+			img = "Flyer_18.jpg"
+			date = "2018"
 			title = "Party-Total-Erleben"
-			description = "Was für ein Wochenende! Freitag totale Eskalation mit HYPERCAT und DJ Moestwanted und Samstag trotz spätnachmittaglichem Regen und Gewitter PARTY TOTAL ERLEBEN mit DJ EL MAR!!!"
+			description = "Was für ein Wochenende! Freitag totale Eskalation mit HYPERCAT und DJ Moestwanted und Samstag trotz spätnachmittaglichem Regen und Gewitter PARTY TOTAL ERLEBEN mit DJ EL MAR!!!<br><a href=\"https:/www.youtube.com/watch?v=VXvWYxNn3Og/\" target=\"_blank\">AFTERMOVIE 2018</a>"
+
+		[[params.about.events]]
+			img = "Flyer_fehlt.jpg"
+			date = "2019"
+			title = "2019 = 25. V-Party!!!"
+			description = "Wir feiern heuer Jubiläum!!!<br>Wahnsinn!!!"
 
 	# Team section
 	[params.team]
@@ -181,6 +296,16 @@ author = "räddbiz by langenmaier"
 			social = [
 				["fa-twitter", "#"],
 				["fa-facebook", "https://www.facebook.com/alex.gonz.180"]
+				
+			]
+
+		[[params.team.members]]
+			img = "rudolfwagner.jpg"
+			name = "Rudolf Wagner"
+			position = "Website, Chronik, Party"
+			social = [
+				["fa-twitter", "#"],
+				["fa-facebook", "https://www.facebook.com/rudi.wagner.779"]
 				
 			]
 
