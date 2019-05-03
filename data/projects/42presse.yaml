@@ -6,4 +6,4 @@ preview: 42_presse_berichte.jpg
 client: Start Bootstrap
 clientLink: "#"
 category: Zeitungsberichte
-description: Presseberichte<br><br><img src="/img/portfolio/under_construction.png" />
+description: Presseberichte<br><br><img class="img-responsive img-centered" src="/img/portfolio/under_construction.png" />

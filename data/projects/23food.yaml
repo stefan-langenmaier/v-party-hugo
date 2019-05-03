@@ -1,9 +1,9 @@
 modalID: 23
 title: Food
-subtitle: Der Schützenverein Diana Zusamaltheim ist seit Jahren unser für die Verpflegung zuständige Partnerverein!
+subtitle: Der <a href="https://www.facebook.com/Schützenverein-Diana-Zusamaltheim-1728164167425933/" target="_blank"> Schützenverein Diana Zusamaltheim</a> ist seit Jahren unser, für die Verpflegung zuständiger, Partnerverein!
 img: 23_food.jpg
 preview: 23_food.jpg
 client: Start Bootstrap
 clientLink: "#"
 category: Leibliche Verpflegung
-description: Am Essensstand des Schützenvereins können verschiedene leckere Hand-Gerichte erworben werden.<br>Schnitzelsemmel, Bratwurstsemmel, Wurstsalat mit Brot, Pommes...<br>Am Essensstand des Schützenvereins sind auch Zigaretten erhältlich<br><br><img src="/img/Food/Schützen.jpg" /><br><br><br>Neben dem Stand der Schützenvereins gibt es noch einen Crepes-Stand.<br>Hier ist neben Crepes in verschiedenen Geschmacksrichtungen auch Kaffee erhältlich<br><br><img src="/img/Food/Crepes.jpg" />
+description: Am Essensstand des Schützenvereins können verschiedene leckere Hand-Gerichte erworben werden.<br>Schnitzelsemmel, Bratwurstsemmel, Wurstsalat mit Brot, Pommes...<br>Am Essensstand des Schützenvereins sind auch Zigaretten erhältlich<br><br><img class="img-responsive img-centered" src="/img/Food/Schützen.jpg" /><br><br><br>Neben dem Stand der Schützenvereins gibt es noch einen Crepes-Stand.<br>Hier ist neben Crepes in verschiedenen Geschmacksrichtungen auch Kaffee erhältlich<br><br><img class="img-responsive img-centered" src="/img/Food/Crepes.jpg" />

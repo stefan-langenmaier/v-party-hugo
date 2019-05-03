@@ -6,4 +6,4 @@ preview: 52_fasching.jpg
 client: Start Bootstrap
 clientLink: "#"
 category: Faschingsfreunde Zusamaltheim
-description: Fasching<br><br><img src="/img/portfolio/under_construction.png" />
+description: Fasching<br><br><img class="img-responsive img-centered" src="/img/portfolio/under_construction.png" />
