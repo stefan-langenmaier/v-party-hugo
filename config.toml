@@ -52,7 +52,7 @@ author = "räddbiz by langenmaier"
 		# the 'static/img' folder.
 		title = "V - PARTY 2019 Zusamaltheim"
 		subtitle = "PARTY - TOTAL - ERLEBEN!!!"
-		buttonText = "Was gibts Neues"
+		buttonText = "Was gibt's Neues"
 
 
 	# Services section
@@ -81,7 +81,7 @@ author = "räddbiz by langenmaier"
 	    [[params.services.row.list]]
                 icon = "fa-money"
                 title = "Eintritt"
-                description = "Kein Einlass unter 18 Jahren!<br />Tickets gibts nur an der Abenkasse!<br />Vergünstigter Eintritt durch Wochenend-Ticket!<br />Organisiert einen eigenen Bus und bekommt eure Eintrittsbändchen schneller und günstiger!"
+                description = "Kein Einlass unter 18 Jahren!<br />Tickets gibt's nur an der Abendkasse!<br />Vergünstigter Eintritt durch Wochenend-Ticket!<br />Organisiert einen eigenen Bus und bekommt eure Eintrittsbändchen schneller und günstiger!"
 
 	# Portfolio section
 	[params.portfolio]
