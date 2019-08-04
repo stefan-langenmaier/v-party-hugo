@@ -104,7 +104,7 @@ author = "räddbiz by langenmaier"
         enable = true
 		title = "Historie"
 		subtitle = "Unsere Geschichte"
-		endpoint = "V-Party 2019<br>Komm<br>Feier<br>mit Uns!!!"
+		endpoint = "V-Party 2020<br>Komm<br>Feier<br>mit Uns!!!"
 
 		# The events will be listed from the top to the bottom.
 		# All images are stored under 'static/img/about'.
@@ -260,6 +260,12 @@ author = "räddbiz by langenmaier"
 			title = "2019 = 25. V-Party!!!"
 			description = "Wir feiern heuer Jubiläum!!!<br>Wahnsinn!!!"
 
+		[[params.about.events]]
+			img = "Flyer_fehlt.jpg"
+			date = "2020"
+			title = "2020 = 26. V-Party!!!"
+			description = "Weiter, immer weiter!!!"
+
 	# Team section
 	[params.team]
         enable = true
@@ -276,6 +282,16 @@ author = "räddbiz by langenmaier"
 			social = [
 				["fa-twitter", "#"],
 				["fa-facebook", "https://www.facebook.com/tobias.lipowsky"]
+			
+			]
+
+		[[params.team.members]]
+			img = "jonashosemann.jpg"
+			name = "Jonas Hosemann"
+			position = "Ehemaliger Vorstand"
+			social = [
+				["fa-twitter", "#"],
+				["fa-facebook", "https://www.facebook.com/jonas.hosemann"]
 			
 			]
 
