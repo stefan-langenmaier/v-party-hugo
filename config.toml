@@ -37,7 +37,7 @@ author = "räddbiz by langenmaier"
 
 	# Navigation
 	[params.navigation]
-		brand = "V-PARTY 29.-30. Mai 2020"
+		brand = "V-PARTY 21.-22. Mai 2021"
 		services = "Party"
 		portfolio = "Infos"
 		about = "Historie"
@@ -50,7 +50,7 @@ author = "räddbiz by langenmaier"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg_1.jpg' in
 		# the 'static/img' folder.
-		title = "V - PARTY 2020 Zusamaltheim"
+		title = "V - PARTY 2021 Zusamaltheim"
 		subtitle = "PARTY - TOTAL - ERLEBEN!!!"
 		buttonText = "Was gibt's Neues"
 
@@ -59,14 +59,14 @@ author = "räddbiz by langenmaier"
 	[params.services]
         enable = true
 		title = "Party"
-		subtitle = "Aktuelle Infos rund ums Wochenende"
+		subtitle = "<b>Absage V-Party 2020<br><br>Nach dem aktuellen Verbot von Großveranstaltungen bis zum 31.08.2020 trifft es leider nun auch uns. Schweren Herzens müssen wir daher die V-Party am Pfingstwochenende (29. & 30. Mai 2020) absagen. 2020 wird es somit erstmals seit über 20 Jahren keine V-Party geben.<br><br>Nach den großen Erfolgen in den letzten Jahren waren wir bereits seit Monaten in den Vorbereitungen, um für euch wieder ein unvergessliches Event zu organisieren. Wir hatten bereits tolle DJs und Bands für euch gebucht! Leider wird es in diesem Jahr jedoch nicht mögich sein, mit euch gemeinsam wild zu eskalieren.<br><br>Mit Sicherheit war die Entscheidung der zuständigen Behörden und Ämter keine leichte, aber definitiv die Richtige. Die Gesundheit steht nun einfach an erster Stelle! Bleibt zuhause und helft mit, das Virus so schnell wie möglich einzudämmen und dem Ganzen ein Ende zu setzen!<br><br>Das gesamte V-Party-Team blickt dennoch nach vorne! Wir dürfen gerade in dieser schweren Zeit den Humor und die Freude am Leben nicht verlieren und freuen uns jetzt schon auf eine umso größere und schönere V-Party 2021!<br><br>Bleibt stark, seid füreinander da und schützt euch gegenseitig!<br><br>Wir sehen uns auf der V-Party 2021 (Fr, 21.05. & Sa, 22.05.2021)<br><br>Eure V-Party-Crew</b>"
 
         [[params.services.row]]
 
             [[params.services.row.list]]
                 icon = "fa-music"
                 title = "Musik"
-                description = "<b>Noch offen!!!<br><br>Das war 2019:<br><br>Freitag 07.06.19 - MAIN-Stage</b><br><a href=\"https://www.facebook.com/thehypercat/\" target=\"_blank\">HYPERCAT PARTY</a><br>mit<br><a href=\"https://www.facebook.com/dropixx/\" target=\"_blank\">DJ DROPIXX</a><br><a href=\"https://www.facebook.com/moestwanted/\" target=\"_blank\">DJ MOESTWANTED</a><b><br><br><br>Freitag 07.06.19 - ROCK-Stage</b><br><a href=\"https://www.facebook.com/Musikverein-Zusamaltheim-313799181980667/\" target=\"_blank\">MUSIKKAPELLE ZUSAMALTHEIM</a><br>mit<br><a href=\"https://www.facebook.com/thebrassidents/\" target=\"_blank\">THE BRASSIDENTS</a><br><br><br><b>Samstag 08.06.19 - MAIN-Stage</b><br><a href=\"https://www.facebook.com/karrerandrahmero/\" target=\"_blank\">KARRER & RAHMERO</a><br><a href=\"https://www.facebook.com/koislmeyer/\" target=\"_blank\">DJ DOMINIK KOISLMEYER</a><br><a href=\"https://www.facebook.com/de.djtonic/\" target=\"_blank\">DJ TONIC</a>   von Bayern 3<br><br><br><b>Samstag 08.06.19 - ROCK-Stage</b><br><a href=\"https://www.cook-and-friends.de/\" target=\"_blank\">COOK AND FRIENDS</a><br><a href=\"https://www.facebook.com/Brotest-182641781888667/\" target=\"_blank\">BROTEST</a><br><a href=\"https://www.facebook.com/rockapartment/\" target=\"_blank\">ROCKAPARTMENT</a>"
+                description = "Alle Acts sind auf Grund der Absage wegen der Corona-Pandemie gecancelt! Das für 2020 geplante Programm wäre spektakuläg gewesen! Wir hoffen 2021 wieder so ein Programm für euch auf die Bein Stellen zu können..."
 
             [[params.services.row.list]]
                 icon = "fa-cutlery"
@@ -261,10 +261,10 @@ author = "räddbiz by langenmaier"
 			description = "Wir feiern heuer Jubiläum!!!<br>Wahnsinn!!!"
 
 		[[params.about.events]]
-			img = "Flyer_fehlt.jpg"
+			img = "Corona_2020.jpg"
 			date = "2020"
-			title = "2020 = 26. V-Party!!!"
-			description = "Weiter, immer weiter!!!"
+			title = "Absage auf Grund der Corona-Pandemie"
+			description = "Die V-Party 2020 musste auf Grund der Corona-Pandemie leider abgesagt werden!"
 
 	# Team section
 	[params.team]
