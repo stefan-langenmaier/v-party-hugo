@@ -66,7 +66,7 @@ author = "räddbiz by langenmaier"
             [[params.services.row.list]]
                 icon = "fa-music"
                 title = "Musik"
-                description = "Alle Acts sind auf Grund der Absage wegen der Corona-Pandemie gecancelt! Das für 2020 geplante Programm wäre specktakuläg gewesen! Wir hoffen 2021 wieder so ein vielversprechendes Programm für euch auf die Beine stellen zu können..."
+                description = "Alle Acts sind auf Grund der Absage wegen der Corona-Pandemie gecancelt! Das für 2020 geplante Programm wäre spektakulär gewesen! Wir hoffen 2021 wieder so ein vielversprechendes Programm für euch auf die Beine stellen zu können..."
 
             [[params.services.row.list]]
                 icon = "fa-cutlery"
