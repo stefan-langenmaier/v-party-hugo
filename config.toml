@@ -59,14 +59,14 @@ author = "räddbiz by langenmaier"
 	[params.services]
         enable = true
 		title = "Party"
-		subtitle = "<b>Absage V-Party 2020 & 2021<br><br>Nach dem aktuellen Verbot von Großveranstaltungen bis zum 31.08.2020 trifft es leider nun auch uns. Schweren Herzens müssen wir daher die V-Party am Pfingstwochenende (29. & 30. Mai 2020) absagen. 2020 wird es somit erstmals seit über 20 Jahren keine V-Party geben.<br><br>Nach den großen Erfolgen in den letzten Jahren waren wir bereits seit Monaten in den Vorbereitungen, um für euch wieder ein unvergessliches Event zu organisieren. Wir hatten bereits tolle DJs und Bands für euch gebucht! Leider wird es in diesem Jahr jedoch nicht mögich sein, mit euch gemeinsam wild zu eskalieren.<br><br>Mit Sicherheit war die Entscheidung der zuständigen Behörden und Ämter keine leichte, aber definitiv die Richtige. Die Gesundheit steht nun einfach an erster Stelle! Bleibt zuhause und helft mit, das Virus so schnell wie möglich einzudämmen und dem Ganzen ein Ende zu setzen!<br><br>Das gesamte V-Party-Team blickt dennoch nach vorne! Wir dürfen gerade in dieser schweren Zeit den Humor und die Freude am Leben nicht verlieren und freuen uns jetzt schon auf eine umso größere und schönere V-Party 2021!<br><br>Bleibt stark, seid füreinander da und schützt euch gegenseitig!<br><br>Wir sehen uns auf der V-Party 2022 (Fr, 03.06. & Sa, 04.06.2022)<br><br>Eure V-Party-Crew</b>"
+		subtitle = "<b>Am 03. & 04. Juni 2022 ist es wieder soweit!<br><br>Nach 2 Jahren Pause findet die V-Party endlich wieder statt! <br><br>Die Corona-Pandemie ist zwar noch nicht vorbei, da ihr aber alle fleißig beim Impfen wart, dürfen wir wieder feiern!!! <br><br>Wir sind mitten in den Vorbereitungen und sind stolz, euch in Kürze ein hammermäßiges LineUp präsentieren zu können! Wir haben wieder einige geniale Acts im Gepäck, die euch die V-Party 2022 nicht vergessen lassen werden. Seid gespannt! Das wird mega!!!! <br><br>Weitere Infos folgen demnächst! <br><br>Wir sehen uns am 03. & 04. Juni in Zusamaltheim! <br><br> PARTY – TOTAL – ERLEBEN<br><br>Eure V-Party-Crew</b>"
 
         [[params.services.row]]
 
             [[params.services.row.list]]
                 icon = "fa-music"
                 title = "Musik"
-                description = "Alle Acts sind auf Grund der Absage wegen der Corona-Pandemie gecancelt! Das für 2020 geplante Programm wäre spektakulär gewesen! Wir hoffen 2022 wieder so ein vielversprechendes Programm für euch auf die Beine stellen zu können..."
+                description = "Wir haben für euch ein hammermäßiges LineUp für die V-Party 2022 zusammengestellt! Weitere Infos werden in Kürze bekannt gegeben! Seid gespannt!!!"
 
             [[params.services.row.list]]
                 icon = "fa-cutlery"
