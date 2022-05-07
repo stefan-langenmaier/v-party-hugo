@@ -59,7 +59,7 @@ author = "räddbiz by langenmaier"
 	[params.services]
         enable = true
 		title = "Party"
-		subtitle = "Am 03. & 04. Juni 2022 ist es wieder soweit!<br><br>Nach 2 Jahren Pause findet die V-Party endlich wieder statt! <br><br>Die Corona-Pandemie ist zwar noch nicht vorbei, da ihr aber alle fleißig beim Impfen wart, dürfen wir wieder feiern!!! <br><br>Wir sind mitten in den Vorbereitungen und sind stolz, euch ein hammermäßiges LineUp präsentieren zu können! <br><br><br>Am Freitag können wir euch als Main-Act <b>Harris & Fort</b> präsentieren! <br><br>Am Samstag präsentieren wir euch mit <b>DJ Dominik Koislmeyer</b> und <b>DJ Tonic</b> zwei altbekannte Party-Garanten! <br><br><br>Weitere Infos folgen demnächst! <br><br>Wir sehen uns am 03. & 04. Juni in Zusamaltheim! <br><br> PARTY – TOTAL – ERLEBEN<br><br>Eure V-Party-Crew"
+		subtitle = "Am 03. & 04. Juni 2022 ist es wieder soweit!<br><br>Nach 2 Jahren Pause findet die V-Party endlich wieder statt! <br><br>Die Corona-Pandemie ist zwar noch nicht vorbei, da ihr aber alle fleißig beim Impfen wart, dürfen wir wieder feiern!!! <br><br>Wir sind mitten in den Vorbereitungen und sind stolz, euch ein hammermäßiges LineUp präsentieren zu können! <br><br><br>Am Freitag können wir euch als Main-Act <b>Harris & Ford</b> präsentieren! <br><br>Am Samstag präsentieren wir euch mit <b>DJ Dominik Koislmeyer</b> und <b>DJ Tonic</b> zwei altbekannte Party-Garanten! <br><br><br>Weitere Infos folgen demnächst! <br><br>Wir sehen uns am 03. & 04. Juni in Zusamaltheim! <br><br> PARTY – TOTAL – ERLEBEN<br><br>Eure V-Party-Crew"
 
         [[params.services.row]]
 
