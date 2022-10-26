@@ -37,7 +37,7 @@ author = "räddbiz by langenmaier"
 
 	# Navigation
 	[params.navigation]
-		brand = "V-PARTY 03.-04. Juni 2022"
+		brand = "V-PARTY 26.-27. Mai 2023"
 		services = "Party"
 		portfolio = "Infos"
 		about = "Historie"
@@ -50,7 +50,7 @@ author = "räddbiz by langenmaier"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg_1.jpg' in
 		# the 'static/img' folder.
-		title = "V - PARTY 2022 Zusamaltheim"
+		title = "V - PARTY 2023 Zusamaltheim"
 		subtitle = "PARTY - TOTAL - ERLEBEN!!!"
 		buttonText = "Was gibt's Neues"
 
@@ -59,14 +59,14 @@ author = "räddbiz by langenmaier"
 	[params.services]
         enable = true
 		title = "Party"
-		subtitle = "Am 03. & 04. Juni 2022 ist es wieder soweit!<br><br>Nach 2 Jahren Pause findet die V-Party endlich wieder statt! <br><br>Die Corona-Pandemie ist zwar noch nicht vorbei, da ihr aber alle fleißig beim Impfen wart, dürfen wir wieder feiern!!! <br><br>Wir sind mitten in den Vorbereitungen und sind stolz, euch ein hammermäßiges LineUp präsentieren zu können! <br><br><br>Am Freitag können wir euch als Main-Act <b>Harris & Ford</b> präsentieren! <br><br>Am Samstag präsentieren wir euch mit <b>DJ Dominik Koislmeyer</b> und <b>DJ Tonic</b> zwei altbekannte Party-Garanten! <br><br><br>Weitere Infos folgen demnächst! <br><br>Wir sehen uns am 03. & 04. Juni in Zusamaltheim! <br><br> PARTY – TOTAL – ERLEBEN<br><br>Eure V-Party-Crew"
+		subtitle = "Am 26. & 27. Mai 2023 ist es wieder soweit!<br><br>Nach der gewaltigen V-Party 2022 sind wir hochmotiviert auch 2023 wieder ein unvergessliches Mega-Event für euch auf die Beine zu stellen! <br><br>Wir sind schon wieder mit Hochdruck an der Planung der V-Party 2023 <br><br>Bis wir euch unser LineUp 2023 präsentieren können wird es noch ein bisschen dauern, wir werden uns aber sicher nicht lumpen lassen!!! <br><br>Wir sehen uns am 26. & 27. Mai 2023 in Zusamaltheim! <br><br> PARTY – TOTAL – ERLEBEN<br><br>Eure V-Party-Crew"
 
         [[params.services.row]]
 
             [[params.services.row.list]]
                 icon = "fa-music"
                 title = "Musik"
-                description = "Wir haben für euch ein hammermäßiges LineUp für die V-Party 2022 zusammengestellt! Weitere Infos werden in Kürze bekannt gegeben! Seid gespannt!!!"
+                description = "Wir sind gerade dabei wieder ein unvergessliches LineUp für die V-Party 2023 für euch zu baseln!!!"
 
             [[params.services.row.list]]
                 icon = "fa-cutlery"
@@ -104,7 +104,7 @@ author = "räddbiz by langenmaier"
         enable = true
 		title = "Historie"
 		subtitle = "Unsere Geschichte"
-		endpoint = "V-Party 2022<br>Komm<br>Feier<br>mit Uns!!!"
+		endpoint = "V-Party 2023<br>Komm<br>Feier<br>mit Uns!!!"
 
 		# The events will be listed from the top to the bottom.
 		# All images are stored under 'static/img/about'.
@@ -258,7 +258,7 @@ author = "räddbiz by langenmaier"
 			img = "Flyer_19.jpg"
 			date = "2019"
 			title = "2019 = 25. V-Party!!!"
-			description = "Wir feiern heuer Jubiläum!!!<br>Wahnsinn!!!"
+			description = "Wir feiern heuer Jubiläum!!!<br>Wahnsinn!!!<br><a href=\"https://www.youtube.com/watch?v=BDSEq29mm5M/\" target=\"_blank\">AFTERMOVIE 2019</a>"
 
 		[[params.about.events]]
 			img = "Corona_2020.jpg"
@@ -275,8 +275,14 @@ author = "räddbiz by langenmaier"
 		[[params.about.events]]
 			img = "Flyer_22.jpg"
 			date = "2022"
-			title = "Es geht wieder los!!!"
-			description = "Die V-Party 2022 findet nach der Corona-Pause endlich wieder statt!"
+			title = "Erste Party nach der Corona-Pause!!!"
+			description = "Was für eine Hammer Party! Wir und Ihr habt alle Rekorde gesprengt!!!"
+
+		[[params.about.events]]
+			img = "Flyer_fehlt.jpg"
+			date = "2023"
+			title = "Party - Total - Erleben!!!"
+			description = "Wir arbeiten daran dir V-Party noch unvergesslicher zu machen!!!"
 
 	# Team section
 	[params.team]
@@ -381,5 +387,5 @@ author = "räddbiz by langenmaier"
 			link = "https://www.facebook.com/VPartyZusamaltheim/?fref=ts"
 
 		[[params.footer.quicklinks]]
-			text = "03.-04.Juni 2022"
+			text = "26.-27. Mai 2023"
 			link = "https://www.facebook.com/VPartyZusamaltheim/?fref=ts"
