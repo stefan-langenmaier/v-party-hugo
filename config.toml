@@ -339,7 +339,16 @@ author = "räddbiz by langenmaier"
 			position = "Website, Chronik, Party"
 			social = [
 				["fa-twitter", "#"],
-				["fa-facebook", "https://www.facebook.com/rudi.wagner.779"]
+				["fa-facebook", "https://www.facebook.com/rudi.wagner.779"]			
+			]
+
+		[[params.team.members]]
+			img = "christiankraus.jpg"
+			name = "Christian Kraus"
+			position = "Facility Management"
+			social = [
+				["fa-twitter", "#"],
+				["fa-facebook", "https://www.facebook.com/christian.kraus.144"]
 				
 			]
 
