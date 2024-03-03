@@ -1,4 +1,4 @@
-baseurl = "http://v-party.de/"
+baseurl = "https://v-party.de/"
 languageCode = "de-de"
 title = "V-PARTY"
 theme = "hugo-agency-theme"
