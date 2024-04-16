@@ -58,15 +58,15 @@ author = "räddbiz by langenmaier"
 	# Services section
 	[params.services]
         enable = true
-		title = "Nach der V-Party ist vor der V-Party!"
-		subtitle = "Die Vorbereitungen für die V-Party 2024 sind bereits in vollem Gang!<br><br> Seid gespannt!<br><br> V-PARTY 2024!<br><br> Party - Total - Erleben!"
+		title = "BEREIT FÜR DAS PARTY-WOCHENENDE DES JAHRES?"
+		subtitle = "Dann komm zur V-Party am 17. und 18. Mai 2024 und erlebe zwei unvergessliche Nächte voller Musik, Spaß und Partyfeeling!<br><br><br>Am Freitag, den 17. Mai, erwartet dich eine Nacht geprägt von elektrischer Musik mit unseren Top-DJs <br><br><b> DJ Gianluca Nobile, LE SHUUK und DJ Dropixx.</b><br><br>Lass dich von den energiegeladenen Beats mitreißen und tanze bis in die Morgenstunden.<br><br><br><br>Samstag, den 18. Mai, geht es mit <br><br><b> DJ ROBZ, DJ Dominik Koislmeyer, DJ LIZOT und DJ Tarik Asadi </b><br><br> weiter - mit einem vielfältigen Mix aus Mainstream-Hits, Classics und Club-Sounds.<br><br>Hier ist für jeden Geschmack etwas dabei, und du wirst sicherlich die ganze Nacht tanzen wollen.<br><br><br><br>Auf der V-Party erwartet dich eine einzigartige Atmosphäre, fantastische Lichteffekte und eine perfekte Soundanlage - alles, um dir das beste Party-Erlebnis zu bieten.<br><br>Feiere mit deinen Freunden oder lerne neue Leute kennen und erlebe eine Nacht, die du nie vergessen wirst.<br><br><br>PARTY – TOTAL – ERLEBEN<br><br>Eure V-Party-Crew"
 
         [[params.services.row]]
 
             [[params.services.row.list]]
                 icon = "fa-music"
                 title = "Musik"
-                description = "Wir sind gerade dabei wieder ein einzigartiges LineUp für die V-Party 2024 für euch zu organisieren!!!<br><br>Die ersten hochkarätigen DJs sind bereits gebucht!!!<br><br>Lasst euch überrraschen!!!"
+                description = "Wir haben für euch wieder ein einzigartiges LineUp für die V-Party 2024 vorbereitet!!!<br><br><b> 17. Mai 2024 </b><br> DJ Gianluca Nobile <br> LE SHUUK <br> DJ Dropixx. <br><br><b> 18. Mai 2024 </b><br> DJ ROBZ <br> DJ Dominik Koislmeyer <br> DJ LIZOT <br> DJ Tarik Asadi"
 
             [[params.services.row.list]]
                 icon = "fa-cutlery"
@@ -276,13 +276,19 @@ author = "räddbiz by langenmaier"
 			img = "Flyer_22.jpg"
 			date = "2022"
 			title = "Erste Party nach der Corona-Pause!!!"
-			description = "Was für eine Hammer Party! Wir und Ihr habt alle Rekorde gesprengt!!!"
+			description = "Was für eine Hammer Party! Wir und Ihr habt alle Rekorde gesprengt!!!<br><a href=\"https://www.youtube.com/watch?v=BpD7zE4hs_E\" target=\"_blank\">AFTERMOVIE 2022</a>"
 
 		[[params.about.events]]
 			img = "Flyer_23.jpg"
 			date = "2023"
 			title = "Party - Total - Erleben!!!"
-			description = "Wir arbeiten daran dir V-Party noch unvergesslicher zu machen!!!"
+			description = "Gedrehtes Zelt aber gleiches Partyvergnügen!!!<br><a href=\"https://youtu.be/69BgLvlND5I?si=XA-njvGm5I6xmzIQ\" target=\"_blank\">AFTERMOVIE 2023</a>"
+
+		[[params.about.events]]
+			img = "Flyer_24.jpg"
+			date = "2024"
+			title = "Party - Total - Erleben!!!"
+			description = "Wir arbeiten auch heuer wieder daran, deinen V-Party-Besuch unvergesslicher zu machen!!!"
 
 	# Team section
 	[params.team]
