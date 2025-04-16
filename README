@@ -23,3 +23,11 @@ benutzer=user
 * dann läuft ein test server auf der adresse http://localhost:1313
 
 
+--------------------------------------------------------
+Eingabeaufforderung cmb
+cd Rudi
+cd Vernichter
+cd Website
+cd v-party-hugo
+..\hugo_0.15_windows_amd64.exe server
+--------------------------------------------------------

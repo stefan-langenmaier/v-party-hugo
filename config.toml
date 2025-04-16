@@ -58,8 +58,8 @@ author = "räddbiz by langenmaier"
 	# Services section
 	[params.services]
         enable = true
-		title = "Nach der V-Party ist vor der V-Party!"
-		subtitle = "Die Vorbereitungen für die V-Party 2025 sind bereits in vollem Gang!<br><br> Seid gespannt!<br><br> V-PARTY 2025!<br><br> Party - Total - Erleben!"
+		title = "BEREIT FÜR DAS PARTY-WOCHENENDE DES JAHRES?"
+		subtitle = "Dann komm zur V-Party am Freitag, 06. und Samstag, 07. Juni 2025 und erlebe zwei unvergessliche Nächte voller Musik, Spaß und Partyfeeling!<br><br>Für unser 20-jähriges Vereinsjubiläum haben wir keine Kosten und Mühen gescheut, und haben unser LineUp noch hochkarätiger besetzt!<br><br><br>Am Freitag, den 06. Juni, erwartet dich eine Nacht zum mitsingen und abfeiern mit unseren Top-DJs <br><br><b> Rudy MC, unserem noch geheimen Special-Act, DJs Pazoo und den DJanes 2 Engel & Charlie.</b><br><br>Lass dich von den energiegeladenen Beats mitreißen und tanze bis in die Morgenstunden.<br><br><br><br>Samstag, den 07. Juni, geht es mit <br><br><b> DJ ROBZ, DJ Noel Holler, DJ Lizot und DJs Axmo </b><br><br> weiter - mit einem vielfältigen Mix aus Mainstream-Hits, Classics und Club-Sounds.<br><br>Hier ist für jeden Geschmack etwas dabei.<br><br><br><br>Auf der V-Party erwartet dich eine einzigartige Atmosphäre, fantastische Lichteffekte und eine perfekte Soundanlage - alles, um dir das beste Party-Erlebnis zu bieten.<br><br>Feiere mit deinen Freunden oder lerne neue Leute kennen und erlebe eine Nacht, die du nie vergessen wirst.<br><br><br>PARTY – TOTAL – ERLEBEN<br><br>Eure V-Party-Crew"
 
         [[params.services.row]]
 
