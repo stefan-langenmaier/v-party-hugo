@@ -37,7 +37,7 @@ author = "räddbiz by langenmaier"
 
 	# Navigation
 	[params.navigation]
-		brand = "V-PARTY 06.-07. Juni 2025"
+		brand = "V-PARTY 22.-23. Mai 2026"
 		services = "Party"
 		portfolio = "Infos"
 		about = "Historie"
@@ -50,7 +50,7 @@ author = "räddbiz by langenmaier"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg_1.jpg' in
 		# the 'static/img' folder.
-		title = "V - PARTY 2025 Zusamaltheim"
+		title = "V - PARTY 2026 Zusamaltheim"
 		subtitle = "PARTY - TOTAL - ERLEBEN!!!"
 		buttonText = "Was gibt's Neues"
 
@@ -59,7 +59,7 @@ author = "räddbiz by langenmaier"
 	[params.services]
         enable = true
 		title = "BEREIT FÜR DAS PARTY-WOCHENENDE DES JAHRES?"
-		subtitle = "Dann komm zur V-Party am Freitag, 06. und Samstag, 07. Juni 2025 und erlebe zwei unvergessliche Nächte voller Musik, Spaß und Partyfeeling!<br><br>Für unser 20-jähriges Vereinsjubiläum haben wir keine Kosten und Mühen gescheut, und haben unser LineUp noch hochkarätiger besetzt!<br><br><br>Am Freitag, den 06. Juni, erwartet dich eine Nacht zum mitsingen und abfeiern mit unseren Top-DJs <br><br><b> Rudy MC, unserem Hauptact Malle-Star Isi Glück, DJs Pazoo und den DJanes 2 Engel & Charlie.</b><br><br>Lass dich von den energiegeladenen Beats mitreißen und tanze bis in die Morgenstunden.<br><br><br><br>Samstag, den 07. Juni, geht es mit <br><br><b> DJ ROBZ, DJ Noel Holler, DJ Lizot und DJs Axmo </b><br><br> weiter - mit einem vielfältigen Mix aus Mainstream-Hits, Classics und Club-Sounds.<br><br>Hier ist für jeden Geschmack etwas dabei.<br><br><br><br>Auf der V-Party erwartet dich eine einzigartige Atmosphäre, fantastische Lichteffekte und eine perfekte Soundanlage - alles, um dir das beste Party-Erlebnis zu bieten.<br><br>Feiere mit deinen Freunden oder lerne neue Leute kennen und erlebe eine Nacht, die du nie vergessen wirst.<br><br><br>PARTY – TOTAL – ERLEBEN<br><br>Eure V-Party-Crew"
+		subtitle = "Dann sichere dir den 22. und 23. Mai 2026 und sei dabei, wenn die V-Party wieder ihre Tore öffnet – zwei Nächte voller Musik, Energie und unvergesslicher Momente warten auf dich!<br><br> Nach den besonderen Herausforderungen im vergangenen Jahr rund um unser 8-Mast-Zirkuszelt und dem aufwendigen Neustart auf der Nachbarwiese kehren wir heuer wieder zu bewährten Strukturen zurück. 2026 feiern wir erneut im legendären 6-Mast-Zirkuszelt – mit der einzigartigen Atmosphäre, die die V-Party seit Jahren auszeichnet.<br><br> Freut euch auf ein mitreißendes Line-up, das wir mit viel Herzblut für euch zusammengestellt haben. Zusätzlich sorgt eine Nebenbühne mit Live-Musik für noch mehr Stimmung und Abwechslung. Welche Künstler und Bands euch erwarten, bleibt allerdings noch unser Geheimnis – Vorfreude ist schließlich die schönste Freude!<br><br> Dich erwartet eine beeindruckende Lichtshow, erstklassiger Sound und eine Atmosphäre, die ihresgleichen sucht. Komm mit deinen Freunden oder lerne neue Leute kennen – und erlebe eine Partynacht, die du so schnell nicht vergessen wirst.<br><br><br>PARTY – TOTAL – ERLEBEN<br><br>Eure V-Party-Crew"
 
         [[params.services.row]]
 
@@ -294,8 +294,13 @@ author = "räddbiz by langenmaier"
 			img = "Flyer_25.jpg"
 			date = "2025"
 			title = "Party - Total - Erleben!!!"
-			description = "20 Jahre Vereinsjubiläum! Wir holen für euch die Stars nach Zusamaltheim!!!"
+			description = "20 Jahre Vereinsjubiläum! Zeltsturz und Stars-Auflauf in Zusamaltheim!!!"
 
+		[[params.about.events]]
+			img = "Flyer_fehlt.jpg"
+			date = "2026"
+			title = "Party - Total - Erleben!!!"
+			description = "Under Construction ;-)"
 
 
 	# Team section
